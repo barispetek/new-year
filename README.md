@@ -1,2 +1,15 @@
 # new-year
-A small project about the new year related to HTML CSS
+
+![Yeni Yıl Resmi](/new-years.jpg)
+
+This project includes a simple website on a New Year theme. The project was created using HTML and CSS and is designed to get users into the new year spirit.
+
+## Features
+
+- 🎉 Colorful and impressive design
+- 🎄 New Year themed images and decorations
+
+## Used technologies
+
+- HTML
+- CSS
